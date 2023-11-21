@@ -1,4 +1,4 @@
-# Program written by Ben Beglili and Michael Griffiths
+# Program written by Ben Bilgili and Michael Griffiths
 # 21/11/2023
 
 import json
